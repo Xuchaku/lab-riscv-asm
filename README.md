@@ -15,12 +15,12 @@
 
 
 Входные параметры:
-![alt text](./figures/in1.png)
+![alt text](./figure/in1.png)
 Результаты работы в https://venus.kvakil.me/
-![alt text](./figures/out1.png)
+![alt text](./figure/out1.png)
 
 Входные параметры:
-![alt text](./figures/in2.png)
+![alt text](./figure/in2.png)
 Результаты работы в https://venus.kvakil.me/
-![alt text](./figures/out2.png)
+![alt text](./figure/out2.png)
 
