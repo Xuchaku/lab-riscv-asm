@@ -15,12 +15,12 @@
 
 
 Входные параметры:
-![alt text](./figure/in1.png)
+![alt text](https://github.com/Xuchaku/lab-riscv-asm/blob/master/figure/in1.PNG)
 Результаты работы в https://venus.kvakil.me/
-![alt text](./figure/out1.png)
+![alt text](https://github.com/Xuchaku/lab-riscv-asm/blob/master/figure/out1.PNG)
 
 Входные параметры:
-![alt text](./figure/in2.png)
+![alt text](https://github.com/Xuchaku/lab-riscv-asm/blob/master/figure/in2.PNG)
 Результаты работы в https://venus.kvakil.me/
-![alt text](./figure/out2.png)
+![alt text](https://github.com/Xuchaku/lab-riscv-asm/blob/master/figure/out2.PNG)
 
